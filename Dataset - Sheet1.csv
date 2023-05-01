@@ -1,0 +1,11 @@
+age,gender,education,mental_illbeing_cause_1,mental_illbeing_cause_2,mental_illbeing_mechanism_1,mental_illbeing_mechanism_2,favorite_modern_feature_1,favorite_modern_feature_2,favorite_modern_feature_3,mothers_specific,fathers_specific,children_specific
+25,Female,16,Stress,Social Media,Chronic stress due to work,Constant comparison on social media,High-tech gadgets,Access to education,Dependence on technology,Unrealistic expectations,Financial pressure,Social media
+40,Male,12,Trauma,Weak Support System,Traumatic events in the past,Loneliness,Access to healthcare,Travel opportunities,Work stress,Postpartum depression,Financial pressure,Bullying
+30,Female,18,Trauma ,Loneliness,Childhood abuse and lack of care,,Online shopping,Comfortable lifestyle,Social comparison,Work-life balance,Masculine Expectations,Social media
+28,Male,14,Genetics,Trauma,Genetic predisposition,History of childhood abuse,Access to information,Career opportunities,Materialism,Postpartum depression,Financial pressure,Social media
+35,Female,16,Work,Trauma,Job-related stress,Past traumatic experiences,Convenient services,Easy communication,Work overload,Guilt for being away,Financial pressure,Cyber Bullying
+42,Male,20,Social Media,Isolation,Fear of missing out and being left behind,Lack of social connections and friendships,Access to entertainment,Access to information,Dependence on technology,Mom-shaming,Financial pressure,Cyber Bullying
+27,Female,15,Isolation,Trauma,Social anxiety and introvertedness,Past traumatic experiences,Social media,Travel opportunities,Loneliness,Work-life balance,Lack of Family Support,Academic Pressure
+31,Male,13,Lifestyle,Family Cycles,Unhealthy Lifestyle and poor dietary choices,Genetic predisposition,Access to information,Entertainment,Inactivity,Teen Mom Shaming,Expectations of Men,Pressure by parents
+29,Female,17,Trauma ,Social Media,Childhood abuse,Falsified sense of happiness form social media,Access to education,Work-life balance,Dependence on technology,Postpartum depression,Financial pressure,Parental Expectations
+33,Male,15,Isolation ,Work,Genetic predisposition,Job-related stress,Access to healthcare,Family time,Materialism,Postpartum depression,Financial pressure,Social media
